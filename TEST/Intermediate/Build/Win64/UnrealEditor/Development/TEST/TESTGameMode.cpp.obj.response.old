@@ -1,7 +1,7 @@
-"C:\Unreal Projects\Test\TEST\Source\TEST\TESTGameMode.cpp"
+"C:\Unreal Projects\Test-1\TEST\Source\TEST\TESTGameMode.cpp"
 /I .
-/I "C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Inc\TEST"
-/I "C:\Unreal Projects\Test\TEST\Source"
+/I "C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\UnrealEditor\Inc\TEST"
+/I "C:\Unreal Projects\Test-1\TEST\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -277,12 +277,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\Definitions.TEST.h"
-/Yu"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.obj"
-/sourceDependencies "C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.json"
+/FI"C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\Definitions.TEST.h"
+/Yu"C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.obj"
+/sourceDependencies "C:\Unreal Projects\Test-1\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.json"
 /Zc:inline
 /nologo
 /Oi

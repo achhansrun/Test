@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal Projects\\Test-1\\TEST\\Source\\TEST\\TEST.Build.cs",
-		"C:\\Unreal Projects\\Test-1\\TEST\\Source\\TEST.Target.cs",
-		"C:\\Unreal Projects\\Test-1\\TEST\\Source\\TESTEditor.Target.cs"
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TEST.Build.cs",
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST.Target.cs",
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TESTEditor.Target.cs"
 	],
-	"EngineVersion": "5.0.3"
+	"EngineVersion": "5.1.0"
 }
