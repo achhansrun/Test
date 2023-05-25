@@ -1,37 +1,58 @@
 [
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TEST.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TEST.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TEST.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TEST.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TEST.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TEST.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TESTCharacter.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TESTCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TESTCharacter.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TESTCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TESTGameMode.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TESTGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Projects\\Test\\TEST\\Source\\TEST\\TESTGameMode.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Unreal Projects\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.211.rsp\"",
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+		"file": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST\\TESTGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default\\TEST.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	}
 ]
