@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TEST",
-			"Path": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TEST.Target.cs",
+			"Path": "C:\\Unreal Projects\\Test-1\\TEST\\Source\\TEST.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TESTEditor",
-			"Path": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\Source\\TESTEditor.Target.cs",
+			"Path": "C:\\Unreal Projects\\Test-1\\TEST\\Source\\TESTEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

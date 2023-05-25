@@ -1,21 +1,14 @@
 {
-    "configurations": [
-        {
-            "name": "TESTEditor Editor Win64 Development (TEST)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_TEST.json"
-        },
-        {
-            "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Fals3\\Desktop\\Summer Repo\\Test\\TEST\\.vscode\\compileCommands_Default.json"
-        }
-    ],
-    "version": 4
+	"configurations": [
+		{
+			"name": "TESTEditor Editor Win64 Development (TEST)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Unreal Projects\\Test-1\\TEST\\.vscode\\compileCommands_TEST.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Unreal Projects\\Test-1\\TEST\\.vscode\\compileCommands_Default.json"
+		}
+	]
 }

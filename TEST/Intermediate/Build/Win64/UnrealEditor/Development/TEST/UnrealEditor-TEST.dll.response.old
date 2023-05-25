@@ -11,7 +11,6 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
-/fastfail
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -19,9 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -32,15 +32,15 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
-/FUNCTIONPADMIN:6
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TEST.init.gen.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTCharacter.gen.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.gen.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TEST.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTCharacter.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.obj"
-"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\Default.rc2.res"
+/FUNCTIONPADMIN
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\TESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TEST.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTCharacter.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TEST.init.gen.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTCharacter.gen.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\TESTGameMode.gen.cpp.obj"
+"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,7 +70,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Binaries\Win64\UnrealEditor-TEST.dll"
-/IMPLIB:"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\UnrealEditor-TEST.suppressed.lib"
-/PDB:"C:\Users\Fals3\Desktop\Summer Repo\Test\TEST\Binaries\Win64\UnrealEditor-TEST.pdb"
+/OUT:"C:\Unreal Projects\Test\TEST\Binaries\Win64\UnrealEditor-TEST.dll"
+/IMPLIB:"C:\Unreal Projects\Test\TEST\Intermediate\Build\Win64\UnrealEditor\Development\TEST\UnrealEditor-TEST.suppressed.lib"
+/PDB:"C:\Unreal Projects\Test\TEST\Binaries\Win64\UnrealEditor-TEST.pdb"
 /ignore:4078
